@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/*.svg
+Allow: /
+Sitemap: http://www.fima-ziruilin.com/LinZirui/sitemap.xml
